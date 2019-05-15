@@ -1,0 +1,108 @@
+* {
+	font-weight: 400;
+	font-family: 'Lobster', cursive;
+}
+
+.top {
+	background:#7F0055;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.txt-top{
+	color:#E667AF;
+	text-shadow:
+   -1px -1px 0 white,  
+    1px -1px 0 white,
+    -1px 1px 0 white,
+     1px 1px 0 white;
+	text-align: center;
+}
+body{
+	background: #E065BB;
+}
+.container {
+	margin-top: 20px;
+}
+.pf{
+	width: 100%;
+	display: block;
+}
+
+.wr {
+	padding-top: 30px;
+	display: flex;
+	align-items: flex-start;
+}
+
+/*.information{
+	padding-left: 50px;
+	width: 65%;
+}*/
+.contacts {
+	padding-top: 20px;
+}
+.info{
+	font-weight: bold;
+}
+.posht{
+	font-weight: bold;
+}
+.ed{
+	padding-top: 20px;
+}
+.infoEd{
+	font-weight: bold;
+}
+.fo{
+	padding-top: 20px;
+}
+.formEd{
+	font-weight: bold;
+}
+.tren{
+	padding-top: 20px;
+}
+.trener
+{
+	font-weight: bold;
+}
+.module-name {
+	background: #7F0055;
+	width: 100%;
+	line-height: 2;
+	padding: 5px 5px 5px 15px;
+	border-bottom: 1px solid white;
+	color:#E667AF;
+}
+.list-group-item.active {
+	padding: 0;
+	border: none;
+}
+.module{
+	width: 10%;
+	background: #E065BB;
+	float: right;
+	box-sizing: border-box;
+	height: 50%;
+	text-align: center;
+	padding:10px;
+	box-sizing: border-box;
+	overflow: auto;
+	margin: 2%;
+	border-radius: 2% 2% 2% 2%;
+}
+	 .show{
+	display: none;
+  }
+  .list-group-item{
+	background-color:#E065BB;
+    border-color: #7F0055;
+    color: black;
+
+  }
+   .container-fluid {
+      padding-top: 30px;
+      padding-bottom: 30px;
+   background-color: #E065BB;   
+  }
+
